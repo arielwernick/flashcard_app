@@ -1,0 +1,12 @@
+{
+  "name": "flashcard_app",
+  "version": "1.0.0",
+  "main": "dist/FlashcardApp.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/HelloWorld.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
